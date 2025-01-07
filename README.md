@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on [my IoT printer project](https://github.com/onemec/ThermalPrinter)
 
-- 🌱 I’m currently learning **NLP and ML**
-
-- 👨‍💻 All of my projects are available at [https://www.onemec.org/](https://www.onemec.org/)
+- 🌱 I’m currently learning **prompt engineering, vector retrieval, and general LLMs**
 
 - 💬 Ask me about **DevOps, CI/CD, Python, and automation**
 
-- 📫 How to reach me **nemec.o@northeastern.edu**
+- 📫 How to reach me **oliver (at) onemec.org**
 
 - 😄 Pronouns: he/him/his
 
