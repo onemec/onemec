@@ -13,7 +13,7 @@
 
 - 😄 Pronouns: he/him/his
 
-- 📄 Know about my experiences [https://www.onemec.org/resume.pdf](https://onemec.org/OliverNemec_Resume.pdf)
+- 📄 Know about my experiences [https://onemec.org/OliverNemec_Resume.pdf](https://onemec.org/OliverNemec_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
